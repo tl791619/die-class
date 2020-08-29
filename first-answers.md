@@ -9,3 +9,7 @@ Q5:
 .	die-class	first-answers.md	.gitignore	README.md
 ..	die.h		.git			new-file.md	second-answers.md
 Q6: 
+Q6:
+.       die-class       first-answers.md        .gitignore      README.md
+..      .git                    new-file.md     second-answers.md
+Q7: No, it is not in the 'master' branch. 
