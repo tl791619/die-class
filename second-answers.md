@@ -18,7 +18,7 @@ Q5:
 
 .	die-class	first-answers.md	.gitignore	README.md
 
-..	die.h		.git			new-file.md	second-answers.md
+..	die.cc		.git			new-file.md	second-answers.md
 
 Q6:
 
